@@ -1,2 +1,2 @@
 # DesignPatternsJava
-Several design patterns for software engineering in Java.
+Several software engineering design patterns for Eclipse IDE written in Java.
